@@ -9,7 +9,7 @@ I also have my own company DSLabs, LLC that focuses on connecting faculty with p
 Feel free to contact me at brianwright@virginia.edu
 
 
-- 🔭 I’m currently working on building interactive content for my Machine Learning Class, check out my book [Foundations of Machine Learning]{https://novavolunteer.github.io/MLBook/)
+- 🔭 I’m currently working on building interactive content for my Machine Learning Class, check out my book [Foundations of Machine Learning](https://novavolunteer.github.io/MLBook/)
 - 🔭 Building LLM driven tools for in classroom learning
 - 💬 Ask me about Education + Data Science
 
