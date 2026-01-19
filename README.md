@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**NovaVolunteer/NovaVolunteer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## Brian Wright
+## Brian Wright,👋
 
 I'm the Quantitative Foundation Associate Professor and Director of Undergraduate Programs at the School of Data Science at UVA. I've been teaching and developing Data Science programs since 2012 and am (hopefully) widely recognized as a leader and innovator in Data Science education.
 
@@ -16,4 +11,4 @@ Feel free to contact me at brianwright@virginia.edu
 - 🔭 Building LLM driven tools for in classroom learning
 - 💬 Ask me about Education + Data Science
 
--->
+
