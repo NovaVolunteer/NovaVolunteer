@@ -1,4 +1,4 @@
-## Brian Wright,👋
+## Brian Wright
 
 I'm the Quantitative Foundation Associate Professor and Director of Undergraduate Programs at the School of Data Science at UVA. I've been teaching and developing Data Science programs since 2012 and am (hopefully) widely recognized as a leader and innovator in Data Science education.
 
